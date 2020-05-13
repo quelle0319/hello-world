@@ -3,4 +3,4 @@ original repository
 
 first using github
 
-pull request
+pull request  study
